@@ -3,8 +3,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background: #fff;
-  color: #444;
+  background: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
   font-family: "Open Sans", sans-serif;
 }
 
@@ -57,7 +57,7 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   line-height: 0;
 }
 
@@ -75,7 +75,7 @@ h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #fff;
+  background: rgb(0, 0, 0);
   border-bottom: 1px solid #eee;
   font-size: 14px;
   padding: 0;
@@ -138,11 +138,11 @@ h6 {
 }
 
 #header #logo h1 a {
-  color: #0c2e8a;
+  color: #345bc5;
 }
 
 #header #logo h1 a span {
-  color: #50d8af;
+  color: #50d87b;
 }
 
 #header #logo img {
@@ -199,7 +199,7 @@ h6 {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #444;
+  color: rgb(0, 0, 0);
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -228,7 +228,7 @@ h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #fff;
+  background: rgb(0, 0, 0);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -314,7 +314,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(8, 30, 91, 0.9);
+  background: rgba(0, 0, 0, 0.9);
   transition: 0.3s;
   z-index: 999;
 }
@@ -417,14 +417,14 @@ h6 {
 }
 
 #hero .hero-content h2 {
-  color: #0c2e8a;
+  color: #2d4da4;
   margin-bottom: 30px;
   font-size: 64px;
   font-weight: 700;
 }
 
 #hero .hero-content h2 span {
-  color: #50d8af;
+  color: #50d87b;
   text-decoration: underline;
 }
 
