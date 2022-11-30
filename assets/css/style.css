@@ -125,7 +125,7 @@ h6 {
   height: 80px;
   transition: all 0.5s;
   z-index: 997;
-  background: #fff;
+  background: transparent;
   box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
 }
 
@@ -138,7 +138,7 @@ h6 {
 }
 
 #header #logo h1 a {
-  color: #345bc5;
+  color: rgb(240, 172, 183);
 }
 
 #header #logo h1 a span {
