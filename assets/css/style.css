@@ -57,7 +57,7 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: rgb(0, 0, 0);
+  color: rgb(243, 75, 103);
   line-height: 0;
 }
 
@@ -125,7 +125,7 @@ h6 {
   height: 80px;
   transition: all 0.5s;
   z-index: 997;
-  background: transparent;
+  background:scroll;
   box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
 }
 
@@ -199,7 +199,7 @@ h6 {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: rgb(0, 0, 0);
+  color: rgb(245, 145, 162);
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -448,13 +448,13 @@ h6 {
 }
 
 #hero .hero-content .btn-get-started {
-  background: #0c2e8a;
-  border: 2px solid #0c2e8a;
+  background: rgb(243, 168, 180);
+  border: 2px solid rgb(241, 176, 187);
 }
 
 #hero .hero-content .btn-get-started:hover {
   background: none;
-  color: #0c2e8a;
+  color: rgb(255, 159, 175);
 }
 
 #hero .hero-content .btn-projects {
