@@ -3,7 +3,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background: rgb(0, 0, 0);
+  background:#2a5349;
   color: rgb(0, 0, 0);
   font-family: "Open Sans", sans-serif;
 }
@@ -125,7 +125,7 @@ h6 {
   height: 80px;
   transition: all 0.5s;
   z-index: 997;
-  background:black;
+  background:#2a5349;
   box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
 }
 
@@ -138,7 +138,7 @@ h6 {
 }
 
 #header #logo h1 a {
-  color: rgb(240, 172, 183);
+  color: #feb89d;
 }
 
 #header #logo h1 a span {
@@ -199,7 +199,7 @@ h6 {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: rgb(245, 145, 162);
+  color: #feb89d;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -448,13 +448,13 @@ h6 {
 }
 
 #hero .hero-content .btn-get-started {
-  background: rgb(243, 168, 180);
-  border: 2px solid rgb(241, 176, 187);
+  background:  #feb89d;
+  border: 2px solid  #feb89d;
 }
 
 #hero .hero-content .btn-get-started:hover {
   background: none;
-  color: rgb(255, 159, 175);
+  color:  #feb89d;
 }
 
 #hero .hero-content .btn-projects {
