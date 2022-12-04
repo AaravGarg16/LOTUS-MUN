@@ -475,7 +475,7 @@ h6 {
 
 #hero .hero-slider::before {
   content: "";
-  background-color:;
+  background-color: ;
   position: absolute;
   height: 100%;
   width: 100%;
@@ -821,18 +821,25 @@ section {
   z-index: 3;
   transition: all ease-in-out 0.3s;
   background: #50d8af;
-  padding: 15px 20px;
+  padding: 0px 5px;
 }
 
 #portfolio .portfolio-item .portfolio-info h4 {
+  padding-top: 20px;
   font-size: 18px;
   color: #fff;
   font-weight: 600;
 }
 
+#portfolio .portfolio-item .portfolio-info h5 {
+  font-size: 18px;
+  color: #fff;
+  font-weight: 400;
+}
+
 #portfolio .portfolio-item .portfolio-info p {
   color: #fff;
-  font-size: 14px;
+  font-size: 18px;
   margin-bottom: 0;
 }
 
