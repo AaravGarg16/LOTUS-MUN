@@ -973,6 +973,8 @@ section {
   font-weight: bold;
   margin: 10px 0 5px 0;
   color: #111;
+  text-shadow: 1px 1px #000;
+}
 }
 
 #testimonials .testimonial-item h4 {
