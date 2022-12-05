@@ -999,6 +999,7 @@ section {
 #testimonials .testimonial-item p {
   font-style: italic;
   margin: 0 auto 49px auto;
+  text-shadow: 1px 1px #000;
 }
 
 #testimonials .swiper-pagination {
