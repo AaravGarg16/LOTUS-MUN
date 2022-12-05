@@ -973,7 +973,7 @@ section {
   font-weight: bold;
   margin: 10px 0 5px 0;
   color: #111;
-  text-shadow: 1.5px 1.5px #000;
+  text-shadow: -1.5px 1.5px #000;
 }
 
 
