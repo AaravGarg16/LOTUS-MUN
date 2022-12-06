@@ -1333,3 +1333,42 @@ html::-webkit-scrollbar-thumb{
   background:linear-gradient(#50d87b,#50d87b);
   border-radius: 8px;
 }
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 65px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram{
+  background:#E1306C ;
+  color: white;
+}
+.fa-linkedin{
+  background:#3B5998 ;
+  color: white;
+}
+.fa-youtube{
+  background:#FF0000 ;
+  color: white;
+}
