@@ -1339,7 +1339,7 @@ html::-webkit-scrollbar-thumb{
   width: 65px;
   text-align: center;
   text-decoration: none;
-  border-radius: 50%;
+  border-radius: 80%;
 }
 
 /* Add a hover effect if you want */
