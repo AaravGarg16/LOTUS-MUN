@@ -675,14 +675,7 @@ progress {
   margin-right: calc(-0.5 * var(--bs-gutter-x));
   margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
-.row > * {
-  flex-shrink: 0;
-  width: 100%;
-  max-width: 100%;
-  padding-right: calc(var(--bs-gutter-x) * 0.5);
-  padding-left: calc(var(--bs-gutter-x) * 0.5);
-  margin-top: var(--bs-gutter-y);
-}
+
 
 .col {
   flex: 1 0 0%;
@@ -1288,7 +1281,7 @@ progress {
   }
   .col-lg-6 {
     flex: 0 0 auto;
-    width: auto;
+    width: 50%;
   }
   .col-lg-7 {
     flex: 0 0 auto;
