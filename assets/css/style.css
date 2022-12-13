@@ -84,6 +84,13 @@ ul{
 }
 
 
+
+@media (max-width : 964px) {
+  .resposive-text{
+    font-size: 2vh;
+  }
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -332,7 +339,7 @@ ul{
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #0c2e8a;
+  color: #feb89d;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -362,7 +369,7 @@ ul{
   left: 0;
   bottom: 0;
   background: rgba(0, 0, 0, 0.9);
-  transition: 0.3s;
+  transition: 0.6s;
   z-index: 999;
 }
 
@@ -382,7 +389,7 @@ ul{
   padding: 10px 0;
   background-color: #fff;
   overflow-y: auto;
-  transition: 0.3s;
+  transition: 0.6s;
 }
 
 .navbar-mobile a,
@@ -639,7 +646,7 @@ section {
 }
 
 #about .about-img {
-  overflow: hidden;
+  overflow: auto;
 }
 
 #about .about-img img {
