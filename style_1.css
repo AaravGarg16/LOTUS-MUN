@@ -429,19 +429,115 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 35%;
+  }
+  .cbse-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .jury-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .aippm-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .bcci-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
   }
   .jcc-center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 35%;
+  }
+  .nsg-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .unesco-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .saarc-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .g20-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .unga-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .uefa-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .cmp-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .sfc-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .unoosa-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .w_m-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .l_s-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
   }
   .unhcr-center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 45%;
+  }
+  .svc-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
   }
   #hero .hero-content h2 {
     color: #2d4da4;
