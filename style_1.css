@@ -404,10 +404,11 @@ body {
   .spreadsheet{
     /* border: 0; */
     
-   text-align: center;
-    
-    
-    
+   text-align: center; 
+  }
+
+   .underline{
+    text-decoration: underline;
   }
 
   @media (max-width:1220px) {
