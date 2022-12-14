@@ -1399,14 +1399,7 @@ html::-webkit-scrollbar{
 
 html::-webkit-scrollbar-track{
   visibility: hidden;
-  background:#333;
-  border-radius: 10px;
-  border-top-left-radius: 0;
-  border-bottom-left-radius: 0;
-  border-radius: 10px;
-  border-radius: 10px;
-  border-top-left-radius: 0;
-  border-bottom-left-radius: 0;
+ 
   
 }
 
@@ -1421,11 +1414,6 @@ html::-webkit-scrollbar-thumb{
   text-align: center;
   text-decoration: none;
   border-radius: 80%;
-}
-
-/* Add a hover effect if you want */
-.fa:hover {
-  
 }
 
 /* Set a specific color for each brand */
