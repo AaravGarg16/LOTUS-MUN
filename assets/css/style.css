@@ -572,6 +572,9 @@ section {
   justify-content: center;
   align-items: center;
   display: flex;
+  
+  height: 100%;
+  width: 100%;
 }
 
 
@@ -721,8 +724,6 @@ section {
   margin-right: calc(-0.5 * var(--bs-gutter-x));
   margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
-
-
 
 
 /* Services Section
