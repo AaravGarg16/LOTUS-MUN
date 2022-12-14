@@ -286,7 +286,7 @@ body {
   * Mobile Navigation 
   */
   .mobile-nav-toggle {
-    color: #0c2e8a;
+    color: #feb89d;
     font-size: 28px;
     cursor: pointer;
     display: none;
@@ -404,11 +404,12 @@ body {
   .spreadsheet{
     /* border: 0; */
     
-   text-align: center; 
-  }
-
-   .underline{
-    text-decoration: underline;
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+    padding-left: 22px !important; ;
+    
+    
+    
   }
 
   @media (max-width:1220px) {
